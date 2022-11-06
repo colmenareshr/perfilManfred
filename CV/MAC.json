@@ -1,0 +1,393 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Humberto",
+      "surnames": "Colmenares",
+      "title": "Desarrollador Full Stack Junior y músico",
+      "description": "Soy una persona apasionada por el trabajo remoto y el área de la tecnología. 🎯 Actualmente me encuentro en la búsqueda de un puesto de trabajo en este sector y poder aportar mis conocimientos y experiencia como desarrollador web y así afrontar los desafíos que se presenten en la empresa. Busco crecer en conocimientos, experiencia y trabajo en equipo, en un ambiente de trabajo estable en el area de la tecnología. \n\n👉 Trabajo como freelancer desde el 2016. La mayoría de mis experiencia laboral ha sido como diseñador web con WordPress en plataformas de teletrabajo. También he asumido proyectos de forma individual que vienen por recomendación. Todos y cada uno han sido de gran desafío, aprendizaje y de trabajo ameno y comunicativo. \n\nActualmente sigo preparándome para ingresar a un ambiente laboral como desarrollador web Full Stack. Si deseas entrar en contacto, para conocer un poco más o solo para saludar, estoy atento y encantado de conocerte. 🙌",
+      "avatar": {
+        "alt": "logo-humberto.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/05/62006f3a-3097-4c00-b369-571e29316ed6_logo-humberto.png"
+      },
+      "location": {
+        "country": "Brasil"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/colmenareshr"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/colmenareshr"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/humbertocolmenares/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Ver películas con mi hija y esposa",
+        "fact": "Aquí tenemos la batalla perdida... \nSolo vemos sus favoritas de Disney y Netflix"
+      },
+      {
+        "topic": "Mi instrumento musical favorito es el Cuatro Venezolano",
+        "fact": "Me encanta tocar: \n- Música en navidad\n- Acidito de Adelis Fréitez\n- Tonadas de Simón Díaz"
+      },
+      {
+        "topic": "Me encanta la Guitarra Clásica",
+        "fact": "Mi temas favoritos: \n- Lágrima de Francisco Tárrega\n- Asturias de Isaac Albéniz\nDe Antonio Lauro: \n- Natalia\n- El negrito\n- Andreina\n"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Bootcamp FullStack",
+        "type": "other",
+        "URL": "https://www.youtube.com/watch?v=wTpuKOhGfJE",
+        "authors": [
+          {
+            "name": "Midudev",
+            "surnames": "Midudev",
+            "title": "Author"
+          }
+        ],
+        "summary": "Un Bootcamp Full Stack quee me ha ayuado mucho a crear un proyecto desde 0, utilizando Node JS, express, mongoose, mongoDB, React... "
+      },
+      {
+        "title": "Eloquent JavaScript",
+        "type": "reading",
+        "URL": "https://eloquentjavascript.net/",
+        "authors": [
+          {
+            "name": "Marijn",
+            "surnames": "Haverbeke",
+            "title": "Author"
+          }
+        ],
+        "summary": "Un libro ideal para los que comenzamos en la programación con JavaScript: \n- Desde la intro a Node JS. \n- Ejercicios prácticos\n- Una lectura ligera y \n- Ideal para consultar en cualquier ocasión"
+      },
+      {
+        "title": "The Show With no Name",
+        "type": "other",
+        "URL": "https://www.ivoox.com/podcast-the-show-with-no-name_sq_f117685_1.html",
+        "authors": [
+          {
+            "name": "Alberto",
+            "surnames": "Alonso",
+            "title": "Author"
+          }
+        ],
+        "summary": "Trabajar en el área de programación o procurar un empleo en tecnología amerita un conocimiento del idioma inglés. \nEste podcast me ha ayudado a ir entendiendo mejor el inglés. Lo escucho mientras estoy trabajando. "
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Macrosoftware"
+        },
+        "roles": [
+          {
+            "name": "Freelancer Mantenimiento Web y SEO",
+            "startDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "Como freelancer en mantenimiento web tengo la responsabilidad de mantener actualizado, seguro y activo los diferentes sitios webs que tengo a cargo. \nAlgunas de las tareas son: \n- Actualización de temas y plugins\n- Creación de un plan de contenidos semanal\n- Redacción de articulos orientados al SEO."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Just Marketing"
+        },
+        "roles": [
+          {
+            "name": "Freelancer Diseñador web WordPress",
+            "startDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "Tengo la resposabilidad de crear diferentes tipos de webs creadas en Wordpress. Las tareas más comunes en esta posición son: \n- Diseño web desde 0\n- Mantenimiento y actualización de sitios\n- Diseño one y landing pages\n- Ecommerce con Woocommerce\n- Copywriting web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Workana"
+        },
+        "roles": [
+          {
+            "name": "Freelancer",
+            "startDate": "2016-01-01",
+            "finishDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "Desde el 2016 he venido trabajando en diversos proyectos relacionados con el desarrollo web, tanto en WordPress como en html, css y javascript. \nIgualmente, en mi desarrollo como teletrabajador he trabajado en distintos proyecto de redacción web, redacción de artículos y SEO. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Secretaría de educación estatal"
+        },
+        "roles": [
+          {
+            "name": "Docente de educación musical",
+            "startDate": "2005-11-01",
+            "finishDate": "2016-07-01",
+            "challenges": [
+              {
+                "description": "En este puesto tuve la resposabilidad de la dirección de agrupaciones corales tanto infantiles como de adultos. Además impartía clases de música en escuelas públicas. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Petshop en React / Node JS",
+          "description": "Proyecto final de mi formación Full Stack. Desarrollamos la interfaz de un ecommerce en el front-end con React para mostrar productos relacionado con una tienda de mascotas y en el back-end nuestro propio servidor con Node JS. ",
+          "URL": "https://github.com/colmenareshr/petShopToti",
+          "image": {
+            "alt": "fofinhos.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/06/7d2f045d-21f9-4769-aa06-75ac6ec18ebb_fofinhos.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Portuguese"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Linux Experience",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Digital Innotation",
+          "description": "Una jornada de conocimientos sobre la creación de servidores Linux, tanto en ambiente local con virtualbox como en la nube, utilizando AWS. \n- Manejo de discos, paquetes y usuarios en Linux. \n- Instalación de Linux y accesos remotos.\n- Manipulación de archivos.\n- Infraestructua de códico: usuarios, directorios y permisos.\n- Servidores de archivos con Linux.\n- Creando un servidor web con Linux.\n- Docker: Utilización práctica en el escenario de microservicios",
+          "URL": "https://www.dio.me/certificate/1754AF0B/share",
+          "image": {
+            "alt": "dio-logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/06/90db6ba7-bec5-4b55-aea9-e585f88c277a_dio-logo.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Introducción a la creación de sitios web con HTML5 y CSS3",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "Digital Innotation",
+          "description": "Durante esta formación desarrollamos un sitio web responsivo utilizando html y css: \n- Proyecto portafolio y perfil profesional\n- Diseño responsivo\n- Menú hamburguesa con animaciones\n- Background color animado\n- Diseño de cards con animaciones css",
+          "URL": "https://www.dio.me/certificate/EC53F14A/share",
+          "image": {
+            "alt": "dio-logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/06/14533f1e-2f62-4ca1-a594-0b9db506664d_dio-logo.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/humbertocolmenares/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "ActiveCampaign",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Zapier",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Adobe Dreamweaver",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe InDesign",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Copywriter",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    }
+  }
+}
