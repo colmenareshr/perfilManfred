@@ -160,6 +160,46 @@
     "projects": [
       {
         "details": {
+          "name": "Calendario da Copa",
+          "description": "💻 Projeto\nO Calendario da Copa é um projeto que mostra os jogos da Copa de 2022.\n\n🚀 Tecnologias\nEsse projeto foi desenvolvido com as seguintes tecnologias:\n- HTML e CSS\n- JavaScript\n- Git e Github\n",
+          "URL": "https://colmenareshr.github.io/NLW",
+          "image": {
+            "alt": "calendario-copa.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/07/612aa073-8d3f-4258-b99b-8034433fba3a_calendario-copa.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-11-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Petshop en React / Node JS",
           "description": "Proyecto final de mi formación Full Stack. Desarrollamos la interfaz de un ecommerce en el front-end con React para mostrar productos relacionado con una tienda de mascotas y en el back-end nuestro propio servidor con Node JS. ",
           "URL": "https://github.com/colmenareshr/petShopToti",
