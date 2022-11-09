@@ -362,6 +362,27 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciado en Educación mención Educación Musical",
+        "startDate": "2000-11-01",
+        "finishDate": "2007-11-01",
+        "institution": {
+          "name": "Universidad de Carabobo",
+          "description": "Formación universitaria en el área de educación musical. Contenidos relacionados a educación básica con especialidad en música. ",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/09/2a8a2cdd-85ce-46a3-b408-987a70cd7aa9_download.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
