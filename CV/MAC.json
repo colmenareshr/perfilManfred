@@ -237,6 +237,35 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Responsive Nft Preview Card",
+          "description": "Parte de una serie de Challenge para desarrollar habilidades en HTML y CSS. Diseño responviso. ",
+          "URL": "https://colmenareshr.github.io/nft-preview-card-component-main/",
+          "image": {
+            "alt": "nft.logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/12/8ccf2dc9-dab6-4440-8cd7-c3c973b7f6bc_nft.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "finishDate": "2022-11-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
