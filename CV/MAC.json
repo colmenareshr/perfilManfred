@@ -402,11 +402,19 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "ActiveCampaign",
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "CMS",
           "type": "technology"
         },
         {
           "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
           "type": "technology"
         },
         {
@@ -426,15 +434,19 @@
           "type": "technology"
         },
         {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
         {
           "name": "React",
-          "type": "technology"
-        },
-        {
-          "name": "Zapier",
           "type": "technology"
         }
       ],
@@ -445,6 +457,14 @@
         },
         {
           "name": "Adobe InDesign",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
           "type": "technology"
         }
       ],
