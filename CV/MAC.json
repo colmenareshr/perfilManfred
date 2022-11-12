@@ -265,7 +265,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -277,13 +277,13 @@
       },
       {
         "skill": {
-          "name": "React",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kubernetes",
+          "name": "React",
           "type": "technology"
         }
       },
@@ -295,7 +295,25 @@
       },
       {
         "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
           "type": "technology"
         }
       },
@@ -307,7 +325,7 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "Github",
           "type": "technology"
         }
       }
