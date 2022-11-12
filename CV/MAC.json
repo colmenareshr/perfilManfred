@@ -259,13 +259,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Express",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -283,13 +283,7 @@
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -301,19 +295,19 @@
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kubernetes",
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       }
