@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,8 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/05/62006f3a-3097-4c00-b369-571e29316ed6_logo-humberto.png"
       },
       "location": {
-        "country": "Brasil"
+        "country": "Brasil",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -243,13 +244,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Portuguese"
+        "name": "Portuguese",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -446,9 +450,11 @@
       ],
       "preferredRoles": [
         "Copywriter",
+        "DevOps & Infrastructure & SRE",
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
