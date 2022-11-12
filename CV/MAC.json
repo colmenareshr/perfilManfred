@@ -449,10 +449,12 @@
         }
       ],
       "preferredRoles": [
+        "Backend Developer",
         "Copywriter",
         "DevOps & Infrastructure & SRE",
         "Frontend Developer",
-        "Full-stack Developer"
+        "Full-stack Developer",
+        "UX Writer"
       ]
     },
     "status": "searchingActively"
