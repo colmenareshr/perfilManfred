@@ -259,19 +259,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Express",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "React",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -283,7 +277,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "React",
           "type": "technology"
         }
       },
@@ -295,7 +289,31 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
           "type": "technology"
         }
       }
