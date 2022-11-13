@@ -124,7 +124,12 @@
       },
       {
         "organization": {
-          "name": "Workana"
+          "name": "Workana",
+          "image": {
+            "alt": "download.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/da491e9c-7f06-4bfd-a66a-80a826c9777a_download.jpeg"
+          },
+          "URL": "https://workana.com"
         },
         "roles": [
           {
