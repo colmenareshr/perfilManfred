@@ -179,6 +179,37 @@
       },
       {
         "organization": {
+          "name": "Universidad de Carabobo",
+          "image": {
+            "alt": "2a8a2cdd-85ce-46a3-b408-987a70cd7aa9_download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/dfde6be5-3c3f-4e5f-90f5-864d4915d500_2a8a2cdd-85ce-46a3-b.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Director Coral Infantil UC",
+            "startDate": "2018-03-01",
+            "finishDate": "2020-02-01",
+            "challenges": [
+              {
+                "description": "- Planificación, coordinación y ejecución del grupo coral.\n- Coordinación de audiciones y ensayos con el grupo.\n- Planificación de reuniones con la comunidad de padres y representantes.\n- Planificación, coordinación y ejecución de conciertos y eventos de difusión institucional.\n- Coordinación de eventos intergrupales de la Dirección de Cultura de la Universidad de Carabobo."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google Sheets",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Workana",
           "image": {
             "alt": "download.jpeg",
