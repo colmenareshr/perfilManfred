@@ -140,6 +140,36 @@
               {
                 "description": "Desde el 2016 he venido trabajando en diversos proyectos relacionados con el desarrollo web, tanto en WordPress como en html, css y javascript. \nIgualmente, en mi desarrollo como teletrabajador he trabajado en distintos proyecto de redacción web, redacción de artículos y SEO. "
               }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Elementor",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Search Console",
+                "type": "technology"
+              },
+              {
+                "name": "Semrush",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
             ]
           }
         ]
