@@ -92,22 +92,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Macrosoftware"
-        },
-        "roles": [
-          {
-            "name": "Freelancer Mantenimiento Web y SEO",
-            "startDate": "2021-11-01",
-            "challenges": [
-              {
-                "description": "Como freelancer en mantenimiento web tengo la responsabilidad de mantener actualizado, seguro y activo los diferentes sitios webs que tengo a cargo. \nAlgunas de las tareas son: \n- Actualización de temas y plugins\n- Creación de un plan de contenidos semanal\n- Redacción de articulos orientados al SEO."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Just Marketing"
         },
         "roles": [
@@ -117,6 +101,42 @@
             "challenges": [
               {
                 "description": "Tengo la resposabilidad de crear diferentes tipos de webs creadas en Wordpress. Las tareas más comunes en esta posición son: \n- Diseño web desde 0\n- Mantenimiento y actualización de sitios\n- Diseño one y landing pages\n- Ecommerce con Woocommerce\n- Copywriting web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Macrosoftware",
+          "image": {
+            "alt": "macrosoftware-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/201483f8-e2af-4ed6-b714-dfccdbe7917b_macrosoftware-logo.png"
+          },
+          "URL": "https://macrosoftware.com.mx"
+        },
+        "roles": [
+          {
+            "name": "Freelancer Mantenimiento Web y SEO",
+            "startDate": "2021-12-01",
+            "finishDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Como freelancer en mantenimiento web tengo la responsabilidad de mantener actualizado, seguro y activo los diferentes sitios webs que tengo a cargo. \nAlgunas de las tareas son: \n- Actualización de temas y plugins\n- Creación de un plan de contenidos semanal\n- Redacción de articulos orientados al SEO."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Elementor",
+                "type": "technology"
+              },
+              {
+                "name": "Search Console",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
               }
             ]
           }
