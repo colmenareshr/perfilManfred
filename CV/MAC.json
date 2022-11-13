@@ -595,6 +595,63 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Programador Full Stack",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Toti Diversidade",
+          "description": "Durante la capacitación vimos problemas relacionados con el desarrollador Full Stack:\n- Jornada de mercado\n- Introducción a las herramientas\n- Introducción a la Tecnología\n- Lógica de programación\n- Gerencia de Proyectos\n- Control de versiones de código - Git\n- Front-End: General\n- Front-End: HTML\n- Front-End: CSS3\n- Front-End: JavaScript\n- Pruebas de software\n- Typescript\n- React JS\n- API REST\n- Base de datos MongoDB\n- Back End: NodeJS",
+          "URL": "https://totidiversidade.com.br/",
+          "image": {
+            "alt": "icon_logo_toti.202d2564.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/1f0bc093-1101-4b6f-b84b-82e01d94db72_icon_logo_toti.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "REST",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Licenciado en Educación mención Educación Musical",
