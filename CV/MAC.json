@@ -92,7 +92,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Just Marketing"
+          "name": "Just Marketing",
+          "image": {
+            "alt": "LJM-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/8c97ee95-7133-4b6e-958c-9f6ba7fd3140_ljm-1.png"
+          },
+          "URL": "http://justmarketing.es/"
         },
         "roles": [
           {
@@ -100,7 +105,37 @@
             "startDate": "2021-03-01",
             "challenges": [
               {
-                "description": "Tengo la resposabilidad de crear diferentes tipos de webs creadas en Wordpress. Las tareas más comunes en esta posición son: \n- Diseño web desde 0\n- Mantenimiento y actualización de sitios\n- Diseño one y landing pages\n- Ecommerce con Woocommerce\n- Copywriting web"
+                "description": "Tengo la resposabilidad de crear diferentes tipos de webs creadas en Wordpress. Las tareas más comunes en esta posición son: \n- Diseño web desde 0\n- Mantenimiento y actualización de sitios\n- Diseño one y landing pages\n- Ecommerce con Woocommerce y prestashop\n- Copywriting web"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Canva",
+                "type": "technology"
+              },
+              {
+                "name": "Elementor",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              },
+              {
+                "name": "Search Console",
+                "type": "technology"
+              },
+              {
+                "name": "WooCommerce",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
               }
             ]
           }
