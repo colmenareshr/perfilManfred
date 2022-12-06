@@ -523,6 +523,38 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Creación de un clúster con Docker Swarm",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Digital Innovation",
+          "URL": "https://www.dio.me/es",
+          "image": {
+            "alt": "1669740440757.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/4d1f6a2e-4cee-4613-87ab-36155279fcd9_1669740440757.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Jornada DevOps com AWS - Impulso",
         "startDate": "2022-11-01",
         "institution": {
