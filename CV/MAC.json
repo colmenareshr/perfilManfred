@@ -531,6 +531,31 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Hábitos: de la productividad a las metas personales",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "Alura Latam",
+          "description": "- Reconociendo tus hábitos\n- Hábitos clave\n- Di adiós a los viejos hábitos\n- Autodisciplina\n- Productividad",
+          "URL": "https://www.aluracursos.com/",
+          "image": {
+            "alt": "dashboard.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/9790d306-618d-4fe1-829b-2851cd29a8a9_dashboard.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Notion",
+            "type": "technology"
+          },
+          {
+            "name": "Trello",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Linux Experience",
         "startDate": "2022-08-01",
         "institution": {
