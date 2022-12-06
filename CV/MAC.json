@@ -555,6 +555,31 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Hábitos: de la productividad a las metas personales",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "Alura Latam",
+          "description": "- Reconociendo tus hábitos\n- Hábitos clave\n- Di adiós a los viejos hábitos\n- Autodisciplina\n- Productividad",
+          "URL": "https://www.aluracursos.com/",
+          "image": {
+            "alt": "dashboard.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/9790d306-618d-4fe1-829b-2851cd29a8a9_dashboard.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Notion",
+            "type": "technology"
+          },
+          {
+            "name": "Trello",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Jornada DevOps com AWS - Impulso",
         "startDate": "2022-11-01",
         "institution": {
@@ -562,8 +587,8 @@
           "description": "La jornada DevOps es un bootcamp que nos brinda la oportunidad de potenciar mis conocimientos en: \n- Linux\n- Docker\n- Kubernetes\n- AWS",
           "URL": "https://www.dio.me/certificate/880D127C/share",
           "image": {
-            "alt": "logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/12/1c2846ce-997a-4b44-b485-698d088999d3_logo.svg"
+            "alt": "1669740440757.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/8ba2522d-0010-4827-8af7-8a7faeab5bf1_1669740440757.jpeg"
           }
         },
         "linkedCompetences": [
@@ -585,31 +610,6 @@
           },
           {
             "name": "VirtualBox",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Hábitos: de la productividad a las metas personales",
-        "startDate": "2022-11-01",
-        "institution": {
-          "name": "Alura Latam",
-          "description": "- Reconociendo tus hábitos\n- Hábitos clave\n- Di adiós a los viejos hábitos\n- Autodisciplina\n- Productividad",
-          "URL": "https://www.aluracursos.com/",
-          "image": {
-            "alt": "dashboard.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/9790d306-618d-4fe1-829b-2851cd29a8a9_dashboard.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Notion",
-            "type": "technology"
-          },
-          {
-            "name": "Trello",
             "type": "technology"
           }
         ]
