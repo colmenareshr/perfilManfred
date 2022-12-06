@@ -555,6 +555,42 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Desmistificando o Docker",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Digital Innovation",
+          "URL": "https://www.dio.me/certificate/96A75382/share",
+          "image": {
+            "alt": "1669740440757.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/9b91e2de-e88a-43d1-ba9e-a166817b402a_1669740440757.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Swarm",
+            "type": "technology"
+          },
+          {
+            "name": "Vagrant",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Hábitos: de la productividad a las metas personales",
         "startDate": "2022-11-01",
         "institution": {
