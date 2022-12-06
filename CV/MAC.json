@@ -617,6 +617,31 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Certified with WeLoveNoCode",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "WeLoveNoCode",
+          "description": "The bearer of this WLNC certification has successfully completed the  Test and is hereby deemed fully capable and skilled in the  no-code Tool with a grade of /100.",
+          "URL": "https://app.welovenocode.com/certificate/?test_id=1664457644416x218723247657094620&utm_source=sharable_link&utm_medium=post&utm_campaign=posted_sm_profile",
+          "image": {
+            "alt": "logoncWLNC.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/1638983f-f0ad-4abe-bab8-2457cf87e135_logoncwlnc.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Linux Experience",
         "startDate": "2022-08-01",
         "institution": {
