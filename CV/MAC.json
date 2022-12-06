@@ -494,6 +494,35 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Javascript y HTML: desarrolla un juego y practica la lógica de programación",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Alura Latam",
+          "description": "- Comienza a programar hoy\n- Comunicarse con el usuario\n- Dinamiza tu programa con variables\n- Crea tus propias características\n- Practicar la resolución de problemas cotidianos.\n- Ejecute diferentes códigos dependiendo de la condición\nrepetir tareas\n- Interactuar de manera diferente con el usuario.\n- Trabaja con muchos datos",
+          "URL": "https://www.aluracursos.com/",
+          "image": {
+            "alt": "dashboard.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/4ae58170-815e-4251-bc34-7dda793517cd_dashboard.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Jornada DevOps com AWS - Impulso",
         "startDate": "2022-11-01",
         "institution": {
