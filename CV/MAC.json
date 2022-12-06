@@ -679,6 +679,34 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Crear un servidor web con Linux",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Digital Innovation",
+          "URL": "https://www.dio.me/certificate/A821968C/share",
+          "image": {
+            "alt": "1669740440757.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/05b122e4-3d19-4aef-95dd-1ed4defdc25c_1669740440757.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Introducción a la creación de sitios web con HTML5 y CSS3",
         "startDate": "2022-05-01",
         "institution": {
