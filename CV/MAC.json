@@ -329,23 +329,6 @@
       },
       {
         "organization": {
-          "name": "Segurob"
-        },
-        "roles": [
-          {
-            "name": "Televentas ",
-            "startDate": "2016-01-01",
-            "finishDate": "2016-02-28",
-            "challenges": [
-              {
-                "description": "Contactar a posibles proveedores para empresa mayorista. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Discipulado Musical Santa Cecilia"
         },
         "roles": [
