@@ -465,23 +465,6 @@
       },
       {
         "organization": {
-          "name": "Particular"
-        },
-        "roles": [
-          {
-            "name": "Emprendedor Digital",
-            "startDate": "2010-01-01",
-            "finishDate": "2022-09-30",
-            "challenges": [
-              {
-                "description": "Desarrollar las habilidades y conocimientos en el marketing digital, creación de contenido para páginas web, organizar eventos de crecimiento personal y empresarial en diversos ámbitos de la personalidad del individuo. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Secretaría de educación estatal",
           "image": {
             "alt": "secretaria-logo.jpg",
