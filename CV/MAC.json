@@ -476,23 +476,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Sector Publico"
-        },
-        "roles": [
-          {
-            "name": "Director Musical",
-            "startDate": "2005-11-01",
-            "finishDate": "2022-05-31",
-            "challenges": [
-              {
-                "description": "Realizar el montaje y coordinación conjunta de las agrupaciones musicales a mi cargo. Generar un ambiente agradable de aprendizaje musical en beneficio de cada participante y la institución al cual represento."
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
