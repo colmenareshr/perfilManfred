@@ -231,23 +231,6 @@
       },
       {
         "organization": {
-          "name": "Koalum Estudio Creativo"
-        },
-        "roles": [
-          {
-            "name": "Web Content Writer",
-            "startDate": "2017-12-01",
-            "finishDate": "2018-03-31",
-            "challenges": [
-              {
-                "description": "Redacción de contenido para su página web, optimización SEO y manejo de Blog corporativo. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Workana",
           "image": {
             "alt": "download.jpeg",
