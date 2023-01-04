@@ -260,23 +260,6 @@
       },
       {
         "organization": {
-          "name": "CFO Tech Latam"
-        },
-        "roles": [
-          {
-            "name": "Manejo de Redes Sociales",
-            "startDate": "2016-04-01",
-            "finishDate": "2016-06-30",
-            "challenges": [
-              {
-                "description": "Creación de Perfil Profesional y de Empresa de la Compañía en la Red Social Linkedin"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Workana",
           "image": {
             "alt": "download.jpeg",
