@@ -1203,6 +1203,11 @@
           "name": "C++",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
     },
     "status": "searchingActively"
