@@ -92,7 +92,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Rock Content "
+          "name": "Rock Content ",
+          "image": {
+            "alt": "rock-content-logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/04/27a06388-3928-465b-97e0-8fd8fa3bb6dc_rock-content-logo.jpg"
+          },
+          "URL": "https://rockcontent.com/es/"
         },
         "roles": [
           {
