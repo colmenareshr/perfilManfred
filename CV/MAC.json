@@ -312,40 +312,6 @@
       },
       {
         "organization": {
-          "name": "Discipulado Musical Santa Cecilia"
-        },
-        "roles": [
-          {
-            "name": "Docente de Musica",
-            "startDate": "2012-09-01",
-            "finishDate": "2014-08-31",
-            "challenges": [
-              {
-                "description": "Impartir clases de música en las diferentes cátedras ofrecidas en la institución."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Polifonica Infantil de Naguanagua"
-        },
-        "roles": [
-          {
-            "name": "Director Coral",
-            "startDate": "2012-08-01",
-            "finishDate": "2014-12-31",
-            "challenges": [
-              {
-                "description": "El desarrollo emocional y el bienestar corporal a través del montaje de obras corales infantiles."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Secretaría de educación estatal",
           "image": {
             "alt": "secretaria-logo.jpg",
