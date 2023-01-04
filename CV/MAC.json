@@ -260,23 +260,6 @@
       },
       {
         "organization": {
-          "name": "Plan B Virtual"
-        },
-        "roles": [
-          {
-            "name": "Campañas de Email Marketing",
-            "startDate": "2016-11-01",
-            "finishDate": "2016-12-31",
-            "challenges": [
-              {
-                "description": "Creación de Contenido y programación de una campaña de email marketing para nuevos suscriptores. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "CFO Tech Latam"
         },
         "roles": [
