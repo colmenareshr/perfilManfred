@@ -164,6 +164,22 @@
       },
       {
         "organization": {
+          "name": "Self-employed"
+        },
+        "roles": [
+          {
+            "name": "Freelance",
+            "startDate": "2016-02-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Macrosoftware",
           "image": {
             "alt": "macrosoftware-logo.png",
@@ -200,6 +216,40 @@
       },
       {
         "organization": {
+          "name": "HumbertoSEO "
+        },
+        "roles": [
+          {
+            "name": "Principal CEO",
+            "startDate": "2021-01-01",
+            "finishDate": "2022-09-30",
+            "challenges": [
+              {
+                "description": "Ayudo a mejorar los textos de sitios web, redacción de artículos de formato largo y diseño de sitios web con WordPress"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "HumbertoFreela "
+        },
+        "roles": [
+          {
+            "name": "Desarrollo de diseño web con WordPress",
+            "startDate": "2020-01-01",
+            "finishDate": "2022-05-31",
+            "challenges": [
+              {
+                "description": "Como HumbertoFreela te ayudo con el diseño web de tu negocio o emprendimiento. Me dedico al desarrollo web con WordPress. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Universidad de Carabobo",
           "image": {
             "alt": "2a8a2cdd-85ce-46a3-b408-987a70cd7aa9_download.png",
@@ -224,6 +274,108 @@
               {
                 "name": "Windows",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Axioma Logicdata SAS"
+        },
+        "roles": [
+          {
+            "name": "Director de marketing digital",
+            "startDate": "2018-01-01",
+            "finishDate": "2020-01-31",
+            "challenges": [
+              {
+                "description": "Encargado del diseño, configuración e implementación de las estrategias y tácticas de marketing de contenido en la empresa, bajo la metodología Inbound. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Koalum Estudio Creativo"
+        },
+        "roles": [
+          {
+            "name": "Web Content Writer",
+            "startDate": "2017-12-01",
+            "finishDate": "2018-03-31",
+            "challenges": [
+              {
+                "description": "Redacción de contenido para su página web, optimización SEO y manejo de Blog corporativo. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Óptica Beauty Eyes"
+        },
+        "roles": [
+          {
+            "name": "Community Manager",
+            "startDate": "2017-10-01",
+            "finishDate": "2018-02-28",
+            "challenges": [
+              {
+                "description": "Diseñar e implementar la estrategia de Social Media Marketing para su fan page de facebook. \n1.- Análisis y punto de partida\n2.- Matriz DAFO y Plan de Acción\n3.- Establecer los KPIs y trabajar en ello\n4.- Calendario de publicaciones\nY dispuesto para lo que necesiten!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autos de Lujo Ecuador"
+        },
+        "roles": [
+          {
+            "name": "Community Manager",
+            "startDate": "2017-09-01",
+            "finishDate": "2018-01-31",
+            "challenges": [
+              {
+                "description": "Diseño e Implementación de una campaña de social media marketing en facebook. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plan B Virtual"
+        },
+        "roles": [
+          {
+            "name": "Campañas de Email Marketing",
+            "startDate": "2016-11-01",
+            "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "Creación de Contenido y programación de una campaña de email marketing para nuevos suscriptores. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CFO Tech Latam"
+        },
+        "roles": [
+          {
+            "name": "Manejo de Redes Sociales",
+            "startDate": "2016-04-01",
+            "finishDate": "2016-06-30",
+            "challenges": [
+              {
+                "description": "Creación de Perfil Profesional y de Empresa de la Compañía en la Red Social Linkedin"
               }
             ]
           }
@@ -283,6 +435,91 @@
       },
       {
         "organization": {
+          "name": "- Freelancer"
+        },
+        "roles": [
+          {
+            "name": "Desarrollo de Marketing Digital",
+            "startDate": "2016-01-01",
+            "finishDate": "2022-05-31",
+            "challenges": [
+              {
+                "description": "Planificar, crear e implementar campañas de email marketing y marketing de contenidos para diversos clientes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Segurob"
+        },
+        "roles": [
+          {
+            "name": "Televentas ",
+            "startDate": "2016-01-01",
+            "finishDate": "2016-02-28",
+            "challenges": [
+              {
+                "description": "Contactar a posibles proveedores para empresa mayorista. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Discipulado Musical Santa Cecilia"
+        },
+        "roles": [
+          {
+            "name": "Docente de Musica",
+            "startDate": "2012-09-01",
+            "finishDate": "2014-08-31",
+            "challenges": [
+              {
+                "description": "Impartir clases de música en las diferentes cátedras ofrecidas en la institución."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Polifonica Infantil de Naguanagua"
+        },
+        "roles": [
+          {
+            "name": "Director Coral",
+            "startDate": "2012-08-01",
+            "finishDate": "2014-12-31",
+            "challenges": [
+              {
+                "description": "El desarrollo emocional y el bienestar corporal a través del montaje de obras corales infantiles."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Particular"
+        },
+        "roles": [
+          {
+            "name": "Emprendedor Digital",
+            "startDate": "2010-01-01",
+            "finishDate": "2022-09-30",
+            "challenges": [
+              {
+                "description": "Desarrollar las habilidades y conocimientos en el marketing digital, creación de contenido para páginas web, organizar eventos de crecimiento personal y empresarial en diversos ámbitos de la personalidad del individuo. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Secretaría de educación estatal",
           "image": {
             "alt": "secretaria-logo.jpg",
@@ -307,6 +544,23 @@
               {
                 "name": "Windows",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sector Publico"
+        },
+        "roles": [
+          {
+            "name": "Director Musical",
+            "startDate": "2005-11-01",
+            "finishDate": "2022-05-31",
+            "challenges": [
+              {
+                "description": "Realizar el montaje y coordinación conjunta de las agrupaciones musicales a mi cargo. Generar un ambiente agradable de aprendizaje musical en beneficio de cada participante y la institución al cual represento."
               }
             ]
           }
@@ -426,17 +680,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English"
-      },
-      {
-        "name": "Portuguese"
-      },
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -947,11 +1190,6 @@
           "name": "C++",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Backend Developer",
-        "Frontend Developer",
-        "Full-stack Developer"
       ]
     }
   }
