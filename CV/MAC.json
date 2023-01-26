@@ -196,40 +196,6 @@
       },
       {
         "organization": {
-          "name": "Koalum Estudio Creativo"
-        },
-        "roles": [
-          {
-            "name": "Web Content Writer",
-            "startDate": "2017-12-01",
-            "finishDate": "2018-03-31",
-            "challenges": [
-              {
-                "description": "Redacción de contenido para su página web, optimización SEO y manejo de Blog corporativo. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Óptica Beauty Eyes"
-        },
-        "roles": [
-          {
-            "name": "Community Manager",
-            "startDate": "2017-10-01",
-            "finishDate": "2018-02-28",
-            "challenges": [
-              {
-                "description": "Diseñar e implementar la estrategia de Social Media Marketing para su fan page de facebook. \n1.- Análisis y punto de partida\n2.- Matriz DAFO y Plan de Acción\n3.- Establecer los KPIs y trabajar en ello\n4.- Calendario de publicaciones\nY dispuesto para lo que necesiten!"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Autos de Lujo Ecuador"
         },
         "roles": [
