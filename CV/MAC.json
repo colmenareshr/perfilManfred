@@ -216,23 +216,6 @@
       },
       {
         "organization": {
-          "name": "HumbertoFreela "
-        },
-        "roles": [
-          {
-            "name": "Desarrollo de diseño web con WordPress",
-            "startDate": "2020-01-01",
-            "finishDate": "2022-05-31",
-            "challenges": [
-              {
-                "description": "Como HumbertoFreela te ayudo con el diseño web de tu negocio o emprendimiento. Me dedico al desarrollo web con WordPress. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Universidad de Carabobo",
           "image": {
             "alt": "2a8a2cdd-85ce-46a3-b408-987a70cd7aa9_download.png",
@@ -510,23 +493,6 @@
               {
                 "name": "Windows",
                 "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sector Publico"
-        },
-        "roles": [
-          {
-            "name": "Director Musical",
-            "startDate": "2005-11-01",
-            "finishDate": "2022-05-31",
-            "challenges": [
-              {
-                "description": "Realizar el montaje y coordinación conjunta de las agrupaciones musicales a mi cargo. Generar un ambiente agradable de aprendizaje musical en beneficio de cada participante y la institución al cual represento."
               }
             ]
           }
