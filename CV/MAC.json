@@ -164,6 +164,22 @@
       },
       {
         "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Frontend Web Developer",
+            "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "Como Frontend web Developer me especializo en el diseño y programación de la interfaz de usuario de una aplicación web o móvil. Utilizo lenguajes de programación como HTML, CSS y JavaScript para crear elementos visuales y de interacción para el sitio web. \n\nTrabajo en estrecha colaboración con diseñadores y desarrolladores de backend para garantizar una experiencia de usuario suave y consistente. \n\nMis responsabilidades incluyen la creación y el mantenimiento de sitios web y aplicaciones, la optimización de la velocidad y el rendimiento, y la implementación de características y actualizaciones."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Self-employed"
         },
         "roles": [
@@ -173,6 +189,22 @@
             "challenges": [
               {
                 "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Independiente "
+        },
+        "roles": [
+          {
+            "name": "WordPress Specialist - Freelancer",
+            "startDate": "2016-01-01",
+            "challenges": [
+              {
+                "description": "Diseño se sitios web completos utilizando el CMS Wordpress. Creación de temas personalizados, diseños a medida y adaptación de plantillas a la marca de empresas, profesionales y marcas."
               }
             ]
           }
@@ -435,6 +467,23 @@
       },
       {
         "organization": {
+          "name": "Workana "
+        },
+        "roles": [
+          {
+            "name": "Wordpress Expert | Freelancer",
+            "startDate": "2015-01-01",
+            "finishDate": "2022-12-31",
+            "challenges": [
+              {
+                "description": "Abordaje de diferentes proyectos en marketing digital:\n1.- Diseño web con Wordpress\n2.- Posicionamiento SEO\n3.- Campañas de email marketing\n4.- Redacción de artículos\n5.- Campañas de publicidad online"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Discipulado Musical Santa Cecilia"
         },
         "roles": [
@@ -612,17 +661,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English"
-      },
-      {
-        "name": "Portuguese"
-      },
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -1155,12 +1193,6 @@
           "name": "C++",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Backend Developer",
-        "DevOps & Infrastructure & SRE",
-        "Frontend Developer",
-        "Full-stack Developer"
       ]
     }
   }
