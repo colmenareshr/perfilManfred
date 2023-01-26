@@ -262,37 +262,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Secretaría de educación estatal",
-          "image": {
-            "alt": "secretaria-logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/0d1419e6-2dd6-4440-860b-0df7f3d455fe_secretaria-logo.jpg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Docente de educación musical",
-            "startDate": "2005-11-01",
-            "finishDate": "2017-06-01",
-            "challenges": [
-              {
-                "description": "En este puesto tuve la resposabilidad de la dirección de agrupaciones corales tanto infantiles como de adultos. Además impartía clases de música en escuelas públicas. "
-              }
-            ],
-            "competences": [
-              {
-                "name": "Google Sheets",
-                "type": "technology"
-              },
-              {
-                "name": "Windows",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
