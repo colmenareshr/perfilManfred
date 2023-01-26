@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,8 +15,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/05/62006f3a-3097-4c00-b369-571e29316ed6_logo-humberto.png"
       },
       "location": {
-        "country": "Brasil",
-        "notes": "Autocompleted using Google Maps API"
+        "country": "Brasil"
       }
     },
     "relevantLinks": [
@@ -174,22 +173,6 @@
             "challenges": [
               {
                 "description": "Como Frontend web Developer me especializo en el diseño y programación de la interfaz de usuario de una aplicación web o móvil. Utilizo lenguajes de programación como HTML, CSS y JavaScript para crear elementos visuales y de interacción para el sitio web. \n\nTrabajo en estrecha colaboración con diseñadores y desarrolladores de backend para garantizar una experiencia de usuario suave y consistente. \n\nMis responsabilidades incluyen la creación y el mantenimiento de sitios web y aplicaciones, la optimización de la velocidad y el rendimiento, y la implementación de características y actualizaciones."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Self-employed"
-        },
-        "roles": [
-          {
-            "name": "Freelance",
-            "startDate": "2016-02-01",
-            "challenges": [
-              {
-                "description": "TBD"
               }
             ]
           }
@@ -664,16 +647,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Portuguese",
-        "level": "Professional working proficiency"
+        "name": "Portuguese"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -805,7 +785,6 @@
         "startDate": "2022-12-01",
         "institution": {
           "name": "Digital Innovation",
-          "description": "",
           "URL": "https://www.dio.me/es",
           "image": {
             "alt": "1669740440757.jpeg",
@@ -838,7 +817,6 @@
         "startDate": "2022-12-01",
         "institution": {
           "name": "Digital Innovation",
-          "description": "",
           "URL": "https://www.dio.me/certificate/96A75382/share",
           "image": {
             "alt": "1669740440757.jpeg",
@@ -999,7 +977,6 @@
         "startDate": "2022-08-01",
         "institution": {
           "name": "Digital Innovation",
-          "description": "",
           "URL": "https://www.dio.me/certificate/A821968C/share",
           "image": {
             "alt": "1669740440757.jpeg",
@@ -1216,7 +1193,6 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
