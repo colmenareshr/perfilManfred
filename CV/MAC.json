@@ -196,23 +196,6 @@
       },
       {
         "organization": {
-          "name": "Axioma Logicdata SAS"
-        },
-        "roles": [
-          {
-            "name": "Director de marketing digital",
-            "startDate": "2018-01-01",
-            "finishDate": "2020-01-31",
-            "challenges": [
-              {
-                "description": "Encargado del diseño, configuración e implementación de las estrategias y tácticas de marketing de contenido en la empresa, bajo la metodología Inbound. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Koalum Estudio Creativo"
         },
         "roles": [
