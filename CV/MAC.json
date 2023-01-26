@@ -196,40 +196,6 @@
       },
       {
         "organization": {
-          "name": "Autos de Lujo Ecuador"
-        },
-        "roles": [
-          {
-            "name": "Community Manager",
-            "startDate": "2017-09-01",
-            "finishDate": "2018-01-31",
-            "challenges": [
-              {
-                "description": "Diseño e Implementación de una campaña de social media marketing en facebook. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Plan B Virtual"
-        },
-        "roles": [
-          {
-            "name": "Campañas de Email Marketing",
-            "startDate": "2016-11-01",
-            "finishDate": "2016-12-31",
-            "challenges": [
-              {
-                "description": "Creación de Contenido y programación de una campaña de email marketing para nuevos suscriptores. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "CFO Tech Latam"
         },
         "roles": [
