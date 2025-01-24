@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,28 +11,14 @@
       "title": "Desarrollador Full Stack | WordPress Specialist",
       "description": "Soy una persona apasionada por el trabajo remoto y el área de la tecnología. 🎯 Actualmente me encuentro en la búsqueda de un puesto de trabajo en este sector y poder aportar mis conocimientos y experiencia, tanto como desarrollador web full stack, como en la cultura DevOps y así afrontar los desafíos que se presenten en la empresa. \n\nBusco crecer en conocimientos, experiencia y trabajo en equipo, en un ambiente de trabajo estable en el area de la tecnología. \n\n👉 Trabajo como freelancer desde el 2016. La mayoría de mis experiencia laboral ha sido como diseñador web con WordPress en plataformas de teletrabajo. También he asumido proyectos de forma individual que vienen por recomendación. Todos y cada uno han sido de gran desafío, aprendizaje y de trabajo ameno y comunicativo. \n\nActualmente sigo preparándome para ingresar a un ambiente laboral como desarrollador web Full Stack y DevOps en varias formaciones online en diferentes instituciones que ofrecen capacitación en tecnología. 🙌",
       "avatar": {
-        "alt": "humberto-logo-nuevo3.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/29/d0162ef3-d16d-4352-b7e5-95f4b0f31111_humberto-logo-nuevo3.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/29/d0162ef3-d16d-4352-b7e5-95f4b0f31111_humberto-logo-nuevo3.png",
+        "alt": "humberto-logo-nuevo3.png"
       },
       "location": {
-        "country": "Brasil",
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJzyjM68dZnAARYz4p8gYVWik)",
+        "country": "Brasil"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/colmenareshr"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/colmenareshr"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/humbertocolmenares/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Ver películas con mi hija y esposa",
@@ -52,40 +38,54 @@
         "title": "Bootcamp FullStack",
         "type": "other",
         "URL": "https://www.youtube.com/watch?v=wTpuKOhGfJE",
+        "summary": "Un Bootcamp Full Stack quee me ha ayuado mucho a crear un proyecto desde 0, utilizando Node JS, express, mongoose, mongoDB, React... ",
         "authors": [
           {
             "name": "Midudev",
             "surnames": "Midudev",
             "title": "Author"
           }
-        ],
-        "summary": "Un Bootcamp Full Stack quee me ha ayuado mucho a crear un proyecto desde 0, utilizando Node JS, express, mongoose, mongoDB, React... "
+        ]
       },
       {
         "title": "Eloquent JavaScript",
         "type": "reading",
         "URL": "https://eloquentjavascript.net/",
+        "summary": "Un libro ideal para los que comenzamos en la programación con JavaScript: \n- Desde la intro a Node JS. \n- Ejercicios prácticos\n- Una lectura ligera y \n- Ideal para consultar en cualquier ocasión",
         "authors": [
           {
             "name": "Marijn",
             "surnames": "Haverbeke",
             "title": "Author"
           }
-        ],
-        "summary": "Un libro ideal para los que comenzamos en la programación con JavaScript: \n- Desde la intro a Node JS. \n- Ejercicios prácticos\n- Una lectura ligera y \n- Ideal para consultar en cualquier ocasión"
+        ]
       },
       {
         "title": "The Show With no Name",
         "type": "other",
         "URL": "https://www.ivoox.com/podcast-the-show-with-no-name_sq_f117685_1.html",
+        "summary": "Trabajar en el área de programación o procurar un empleo en tecnología amerita un conocimiento del idioma inglés. \nEste podcast me ha ayudado a ir entendiendo mejor el inglés. Lo escucho mientras estoy trabajando. ",
         "authors": [
           {
             "name": "Alberto",
             "surnames": "Alonso",
             "title": "Author"
           }
-        ],
-        "summary": "Trabajar en el área de programación o procurar un empleo en tecnología amerita un conocimiento del idioma inglés. \nEste podcast me ha ayudado a ir entendiendo mejor el inglés. Lo escucho mientras estoy trabajando. "
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/humbertocolmenares/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/colmenareshr"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/colmenareshr"
       }
     ]
   },
@@ -95,8 +95,8 @@
         "organization": {
           "name": "Rock Content ",
           "image": {
-            "alt": "rock-content-logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/04/27a06388-3928-465b-97e0-8fd8fa3bb6dc_rock-content-logo.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/04/27a06388-3928-465b-97e0-8fd8fa3bb6dc_rock-content-logo.jpg",
+            "alt": "rock-content-logo.jpg"
           },
           "URL": "https://rockcontent.com/es/"
         },
@@ -104,6 +104,7 @@
           {
             "name": "Redactor Freelance",
             "startDate": "2022-12-01",
+            "finishDate": "2023-12-01",
             "challenges": [
               {
                 "description": "- Escribo y actualizo artítulos de blog para empresas de diversos sectores. \n- Escritura SEO optimizada para mejorar posicionamiento en los Buscadores 🚀"
@@ -116,8 +117,8 @@
         "organization": {
           "name": "Just Marketing",
           "image": {
-            "alt": "LJM-1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/8c97ee95-7133-4b6e-958c-9f6ba7fd3140_ljm-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/8c97ee95-7133-4b6e-958c-9f6ba7fd3140_ljm-1.png",
+            "alt": "LJM-1.png"
           },
           "URL": "http://justmarketing.es/"
         },
@@ -144,11 +145,11 @@
                 "type": "technology"
               },
               {
-                "name": "Prestashop",
+                "name": "Google Search Console",
                 "type": "technology"
               },
               {
-                "name": "Search Console",
+                "name": "Prestashop",
                 "type": "technology"
               },
               {
@@ -199,8 +200,8 @@
         "organization": {
           "name": "Workana",
           "image": {
-            "alt": "download.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/da491e9c-7f06-4bfd-a66a-80a826c9777a_download.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/da491e9c-7f06-4bfd-a66a-80a826c9777a_download.jpeg",
+            "alt": "download.jpeg"
           },
           "URL": "https://workana.com"
         },
@@ -224,15 +225,15 @@
                 "type": "technology"
               },
               {
+                "name": "Google Search Console",
+                "type": "technology"
+              },
+              {
                 "name": "HTML",
                 "type": "technology"
               },
               {
                 "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Search Console",
                 "type": "technology"
               },
               {
@@ -255,8 +256,8 @@
           "description": "💻 Projeto\nO Calendario da Copa é um projeto que mostra os jogos da Copa de 2022.\n\n🚀 Tecnologias\nEsse projeto foi desenvolvido com as seguintes tecnologias:\n- HTML e CSS\n- JavaScript\n- Git e Github\n",
           "URL": "https://colmenareshr.github.io/NLW",
           "image": {
-            "alt": "calendario-copa.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/07/612aa073-8d3f-4258-b99b-8034433fba3a_calendario-copa.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/07/612aa073-8d3f-4258-b99b-8034433fba3a_calendario-copa.jpg",
+            "alt": "calendario-copa.jpg"
           }
         },
         "type": "sideProject",
@@ -291,12 +292,41 @@
       },
       {
         "details": {
+          "name": "Responsive Nft Preview Card",
+          "description": "Parte de una serie de Challenge para desarrollar habilidades en HTML y CSS. Diseño responviso. ",
+          "URL": "https://colmenareshr.github.io/nft-preview-card-component-main/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/12/8ccf2dc9-dab6-4440-8cd7-c3c973b7f6bc_nft.jpg",
+            "alt": "nft.logo.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Petshop en React / Node JS",
           "description": "Proyecto final de mi formación Full Stack. Desarrollamos la interfaz de un ecommerce en el front-end con React para mostrar productos relacionado con una tienda de mascotas y en el back-end nuestro propio servidor con Node JS. ",
           "URL": "https://github.com/colmenareshr/petShopToti",
           "image": {
-            "alt": "fofinhos.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/06/7d2f045d-21f9-4769-aa06-75ac6ec18ebb_fofinhos.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/06/7d2f045d-21f9-4769-aa06-75ac6ec18ebb_fofinhos.png",
+            "alt": "fofinhos.png"
           }
         },
         "type": "sideProject",
@@ -328,75 +358,43 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Responsive Nft Preview Card",
-          "description": "Parte de una serie de Challenge para desarrollar habilidades en HTML y CSS. Diseño responviso. ",
-          "URL": "https://colmenareshr.github.io/nft-preview-card-component-main/",
-          "image": {
-            "alt": "nft.logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/12/8ccf2dc9-dab6-4440-8cd7-c3c973b7f6bc_nft.jpg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-10-01",
-            "finishDate": "2022-11-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Portuguese",
-        "level": "Professional working proficiency"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Kubernetes",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "GitLab",
+          "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Prestashop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -408,25 +406,13 @@
       },
       {
         "skill": {
-          "name": "WooCommerce",
+          "name": "GitLab",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -444,19 +430,37 @@
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Github",
+          "name": "Linux",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "AWS",
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prestashop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WooCommerce",
           "type": "technology"
         }
       },
@@ -471,15 +475,15 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Javascript y HTML: desarrolla un juego y practica la lógica de programación",
-        "startDate": "2022-12-01",
+        "name": "Certified with WeLoveNoCode",
+        "startDate": "2022-09-01",
         "institution": {
-          "name": "Alura Latam",
-          "description": "- Comienza a programar hoy\n- Comunicarse con el usuario\n- Dinamiza tu programa con variables\n- Crea tus propias características\n- Practicar la resolución de problemas cotidianos.\n- Ejecute diferentes códigos dependiendo de la condición\nrepetir tareas\n- Interactuar de manera diferente con el usuario.\n- Trabaja con muchos datos",
-          "URL": "https://www.aluracursos.com/",
+          "name": "WeLoveNoCode",
+          "description": "The bearer of this WLNC certification has successfully completed the  Test and is hereby deemed fully capable and skilled in the  no-code Tool with a grade of /100.",
+          "URL": "https://app.welovenocode.com/certificate/?test_id=1664457644416x218723247657094620&utm_source=sharable_link&utm_medium=post&utm_campaign=posted_sm_profile",
           "image": {
-            "alt": "dashboard.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/4ae58170-815e-4251-bc34-7dda793517cd_dashboard.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/1638983f-f0ad-4abe-bab8-2457cf87e135_logoncwlnc.svg",
+            "alt": "logoncWLNC.svg"
           }
         },
         "linkedCompetences": [
@@ -488,11 +492,7 @@
             "type": "technology"
           },
           {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Visual Studio Code",
+            "name": "WordPress",
             "type": "technology"
           }
         ]
@@ -504,11 +504,10 @@
         "startDate": "2022-12-01",
         "institution": {
           "name": "Digital Innovation",
-          "description": "",
           "URL": "https://www.dio.me/es",
           "image": {
-            "alt": "1669740440757.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/4d1f6a2e-4cee-4613-87ab-36155279fcd9_1669740440757.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/4d1f6a2e-4cee-4613-87ab-36155279fcd9_1669740440757.jpeg",
+            "alt": "1669740440757.jpeg"
           }
         },
         "linkedCompetences": [
@@ -533,15 +532,42 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Crear un servidor web con Linux",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Digital Innovation",
+          "URL": "https://www.dio.me/certificate/A821968C/share",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/05b122e4-3d19-4aef-95dd-1ed4defdc25c_1669740440757.jpeg",
+            "alt": "1669740440757.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Desmistificando o Docker",
         "startDate": "2022-12-01",
         "institution": {
           "name": "Digital Innovation",
-          "description": "",
           "URL": "https://www.dio.me/certificate/96A75382/share",
           "image": {
-            "alt": "1669740440757.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/9b91e2de-e88a-43d1-ba9e-a166817b402a_1669740440757.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/9b91e2de-e88a-43d1-ba9e-a166817b402a_1669740440757.jpeg",
+            "alt": "1669740440757.jpeg"
           }
         },
         "linkedCompetences": [
@@ -577,8 +603,8 @@
           "description": "- Reconociendo tus hábitos\n- Hábitos clave\n- Di adiós a los viejos hábitos\n- Autodisciplina\n- Productividad",
           "URL": "https://www.aluracursos.com/",
           "image": {
-            "alt": "dashboard.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/9790d306-618d-4fe1-829b-2851cd29a8a9_dashboard.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/9790d306-618d-4fe1-829b-2851cd29a8a9_dashboard.png",
+            "alt": "dashboard.png"
           }
         },
         "linkedCompetences": [
@@ -595,134 +621,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Jornada DevOps com AWS - Impulso",
-        "startDate": "2022-11-01",
-        "institution": {
-          "name": "Digital Innovation",
-          "description": "La jornada DevOps es un bootcamp que nos brinda la oportunidad de potenciar mis conocimientos en: \n- Linux\n- Docker\n- Kubernetes\n- AWS",
-          "URL": "https://www.dio.me/certificate/880D127C/share",
-          "image": {
-            "alt": "1669740440757.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/8ba2522d-0010-4827-8af7-8a7faeab5bf1_1669740440757.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "Linux",
-            "type": "technology"
-          },
-          {
-            "name": "Ubuntu",
-            "type": "technology"
-          },
-          {
-            "name": "VirtualBox",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Certified with WeLoveNoCode",
-        "startDate": "2022-09-01",
-        "institution": {
-          "name": "WeLoveNoCode",
-          "description": "The bearer of this WLNC certification has successfully completed the  Test and is hereby deemed fully capable and skilled in the  no-code Tool with a grade of /100.",
-          "URL": "https://app.welovenocode.com/certificate/?test_id=1664457644416x218723247657094620&utm_source=sharable_link&utm_medium=post&utm_campaign=posted_sm_profile",
-          "image": {
-            "alt": "logoncWLNC.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/1638983f-f0ad-4abe-bab8-2457cf87e135_logoncwlnc.svg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "WordPress",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Linux Experience",
-        "startDate": "2022-08-01",
-        "institution": {
-          "name": "Digital Innovation",
-          "description": "Una jornada de conocimientos sobre la creación de servidores Linux, tanto en ambiente local con virtualbox como en la nube, utilizando AWS. \n- Manejo de discos, paquetes y usuarios en Linux. \n- Instalación de Linux y accesos remotos.\n- Manipulación de archivos.\n- Infraestructua de códico: usuarios, directorios y permisos.\n- Servidores de archivos con Linux.\n- Creando un servidor web con Linux.\n- Docker: Utilización práctica en el escenario de microservicios",
-          "URL": "https://www.dio.me/certificate/1754AF0B/share",
-          "image": {
-            "alt": "1669740440757.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/c2695dea-3122-4140-8be0-e0f525e4ccb6_1669740440757.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "Linux",
-            "type": "technology"
-          },
-          {
-            "name": "Ubuntu",
-            "type": "technology"
-          },
-          {
-            "name": "VirtualBox",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Crear un servidor web con Linux",
-        "startDate": "2022-08-01",
-        "institution": {
-          "name": "Digital Innovation",
-          "description": "",
-          "URL": "https://www.dio.me/certificate/A821968C/share",
-          "image": {
-            "alt": "1669740440757.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/05b122e4-3d19-4aef-95dd-1ed4defdc25c_1669740440757.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "Linux",
-            "type": "technology"
-          },
-          {
-            "name": "VirtualBox",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Introducción a la creación de sitios web con HTML5 y CSS3",
         "startDate": "2022-05-01",
         "institution": {
@@ -730,8 +628,8 @@
           "description": "Durante esta formación desarrollamos un sitio web responsivo utilizando html y css: \n- Proyecto portafolio y perfil profesional\n- Diseño responsivo\n- Menú hamburguesa con animaciones\n- Background color animado\n- Diseño de cards con animaciones css",
           "URL": "https://www.dio.me/certificate/EC53F14A/share",
           "image": {
-            "alt": "1669740440757.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/e494e577-4de2-4a4a-aca8-6077505d3a03_1669740440757.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/e494e577-4de2-4a4a-aca8-6077505d3a03_1669740440757.jpeg",
+            "alt": "1669740440757.jpeg"
           }
         },
         "linkedCompetences": [
@@ -750,6 +648,130 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Javascript y HTML: desarrolla un juego y practica la lógica de programación",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Alura Latam",
+          "description": "- Comienza a programar hoy\n- Comunicarse con el usuario\n- Dinamiza tu programa con variables\n- Crea tus propias características\n- Practicar la resolución de problemas cotidianos.\n- Ejecute diferentes códigos dependiendo de la condición\nrepetir tareas\n- Interactuar de manera diferente con el usuario.\n- Trabaja con muchos datos",
+          "URL": "https://www.aluracursos.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/4ae58170-815e-4251-bc34-7dda793517cd_dashboard.png",
+            "alt": "dashboard.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Jornada DevOps com AWS - Impulso",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "Digital Innovation",
+          "description": "La jornada DevOps es un bootcamp que nos brinda la oportunidad de potenciar mis conocimientos en: \n- Linux\n- Docker\n- Kubernetes\n- AWS",
+          "URL": "https://www.dio.me/certificate/880D127C/share",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/8ba2522d-0010-4827-8af7-8a7faeab5bf1_1669740440757.jpeg",
+            "alt": "1669740440757.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciado en Educación mención Educación Musical",
+        "startDate": "2000-11-01",
+        "institution": {
+          "name": "Universidad de Carabobo",
+          "description": "Formación universitaria en el área de educación musical. Contenidos relacionados a educación básica con especialidad en música. ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/09/2a8a2cdd-85ce-46a3-b408-987a70cd7aa9_download.png",
+            "alt": "download.png"
+          }
+        },
+        "finishDate": "2007-11-01",
+        "linkedCompetences": [
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Linux Experience",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Digital Innovation",
+          "description": "Una jornada de conocimientos sobre la creación de servidores Linux, tanto en ambiente local con virtualbox como en la nube, utilizando AWS. \n- Manejo de discos, paquetes y usuarios en Linux. \n- Instalación de Linux y accesos remotos.\n- Manipulación de archivos.\n- Infraestructua de códico: usuarios, directorios y permisos.\n- Servidores de archivos con Linux.\n- Creando un servidor web con Linux.\n- Docker: Utilización práctica en el escenario de microservicios",
+          "URL": "https://www.dio.me/certificate/1754AF0B/share",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/06/c2695dea-3122-4140-8be0-e0f525e4ccb6_1669740440757.jpeg",
+            "alt": "1669740440757.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": false,
         "name": "Programador Full Stack",
@@ -759,8 +781,8 @@
           "description": "Durante la capacitación vimos problemas relacionados con el desarrollador Full Stack:\n- Jornada de mercado\n- Introducción a las herramientas\n- Introducción a la Tecnología\n- Lógica de programación\n- Gerencia de Proyectos\n- Control de versiones de código - Git\n- Front-End: General\n- Front-End: HTML\n- Front-End: CSS3\n- Front-End: JavaScript\n- Pruebas de software\n- Typescript\n- React JS\n- API REST\n- Base de datos MongoDB\n- Back End: NodeJS",
           "URL": "https://totidiversidade.com.br/",
           "image": {
-            "alt": "icon_logo_toti.202d2564.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/1f0bc093-1101-4b6f-b84b-82e01d94db72_icon_logo_toti.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/13/1f0bc093-1101-4b6f-b84b-82e01d94db72_icon_logo_toti.svg",
+            "alt": "icon_logo_toti.202d2564.svg"
           }
         },
         "linkedCompetences": [
@@ -805,27 +827,26 @@
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Licenciado en Educación mención Educación Musical",
-        "startDate": "2000-11-01",
-        "finishDate": "2007-11-01",
-        "institution": {
-          "name": "Universidad de Carabobo",
-          "description": "Formación universitaria en el área de educación musical. Contenidos relacionados a educación básica con especialidad en música. ",
-          "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/09/2a8a2cdd-85ce-46a3-b408-987a70cd7aa9_download.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Windows",
-            "type": "technology"
-          }
-        ]
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -833,8 +854,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/humbertocolmenares/"
+          "URL": "https://www.linkedin.com/in/humbertocolmenares/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/colmenareshr",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/colmenareshr",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "colmenareshr@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "41996075355",
+          "countryCode": "+55"
         }
       ]
     },
@@ -917,5 +955,34 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Estoy interesado en conseguir un puesto de trabajo en un empresa dedicada a la tecnología, que pueda aprender y poner en práctica mis conocimientos y experienca. \n\nTener la oportunidad de crear comunidad dentro del ambiente de trabajo y poder compartir, así como aprender de otros mentores con mayor experiencia. ",
+    "goodPractices": "Intento aplicar código limpio tanto como pueda. Sigo profundizando mi escritura a través de lectura de libros como \"Eloquent JavaScript\" y \"Clean Code\", así como siguiendo referentes en el sector. ",
+    "projects": [
+      {
+        "name": "Calendario da Copa"
+      },
+      {
+        "name": "Petshop en React / Node JS"
+      },
+      {
+        "name": "Responsive Nft Preview Card"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Bootcamp FullStack",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/06/59bbc028-6c20-4c6c-9e3d-a75fb9a0e7ee_hqdefault.jpg"
+      },
+      {
+        "name": "Eloquent JavaScript",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/06/36653242-29ce-4847-ba0a-35964ccabcb2_eloquent-javascript.jpg"
+      },
+      {
+        "name": "The Show With no Name",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/06/6e7cd397-0aba-48d4-a919-07bc4d9e16b6_show-with-no-name.jpg"
+      }
+    ]
   }
 }
